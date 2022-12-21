@@ -31,7 +31,7 @@
 1. **피해 복구** : 클라우드에 데이터를 저장해놓았다면, 그 데이터들에 언제든지 접근할 수 있다.
 즉, 자연재해나 정전과 같은 비상상황에서도 데이터를 빠르게 복구할 수 있다.  
 
-![Untitled](Cloud%20Computing%20(What%20is%20Cloud%20)%20785bbaead14e4823a2a1114e1e869ed5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/208914256-df8a8d85-a999-4e9d-b8f9-e1512eba495f.png)
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-![Untitled](Cloud%20Computing%20(What%20is%20Cloud%20)%20785bbaead14e4823a2a1114e1e869ed5/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/208914251-d1cf4fa1-b716-426a-ba6f-fcdd1272c4f2.png)
 
 1. 서비스로서의 인프라 (IaaS)
 :  AWS와 같은 laas 서비스 제공 업체들은 가상의 서버 인스턴스와 스토리지를 제공하고,
