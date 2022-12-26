@@ -2,7 +2,7 @@
 
 ---
 
-![Untitled](%5BNetwork%5D%20REST%E1%84%85%E1%85%A1%E1%86%AB%20REST%20API%E1%84%85%E1%85%A1%E1%86%AB%20084dfcf3087f4c6eb5432818abe5e870/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/209548639-578e9f48-a0cb-422c-ab6e-0a970d52dc76.png)
 
 ## REST란
 
@@ -73,3 +73,5 @@ Header 값이 왠지 더 어렵게 느껴진다.
 - 구형 브라우저가 아직 제대로 지원해주지 못하는 부분이 존재한다.
 (PUT, DELETE를 사용하지 못하는 점)
 (pushState를 지원하지 않는 점)
+
+---
